@@ -11,7 +11,7 @@ The workflow combines natural language processing, Latent Dirichlet Allocation (
 
 - `Reddit_Topic Modeling.ipynb` — Jupyter notebook containing the Reddit text-processing, topic-modelling, sentiment, emotion, and temporal-trend analyses.
 
-> Note: This README is based on the uploaded Reddit notebook. Facebook analysis also follows a similar pattern however the code is not included in the uploaded file.
+> Note: This README is based on the uploaded Reddit notebook. Facebook analysis also follows a similar pattern.
 
 ## Analysis Workflow
 
